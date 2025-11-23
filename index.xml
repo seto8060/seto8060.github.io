@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on My New Hugo Site</title>
+    <link>https://example.org/</link>
+    <description>Recent content in Home on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Nov 2025 16:54:40 +0800</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Notes</title>
+      <link>https://example.org/notes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/notes/</guid>
+      
+        <description>&lt;p&gt;Below are some of my &lt;strong&gt;study notes&lt;/strong&gt;. Click to view or download the PDFs.&lt;br&gt;
+These notes are based on my personal understanding, so please forgive any errors or imperfections.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;*If any infringement occurs, please contact me for prompt removal.&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;-sophomore-i&#34;&gt;🎓 Sophomore (I)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.org/notes/vci.pdf&#34;&gt;VCI · CV · Image Processing — Three-in-One (Being Updated)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-freshman-ii&#34;&gt;🎓 Freshman (II)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.org/notes/Intro_to_AI.pdf&#34;&gt;Introduction to AI&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.org/notes/Programming.pdf&#34;&gt;Practice of Programming&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.org/notes/Politics.pdf&#34;&gt;History of European Political Thoughts(欧洲政治思想史)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-freshman-i&#34;&gt;🎓 Freshman (I)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.org/notes/sixiu2.pdf&#34;&gt;Ideology, morality and Law(思修)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;There are actually more than these, but either they are not worth showing, or I am simply too lazy to organize them.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://example.org/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/projects/</guid>
+      
+        <description>&lt;style&gt;
+.project-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 20px;
+  padding-top: 20px;
+}
+
+.project-card {
+  border: 1px solid #444;
+  border-radius: 10px;
+  padding: 18px;
+  background-color: #1d242f;
+  transition: 0.25s;
+}
+
+.project-card:hover {
+  transform: translateY(-5px);
+  border-color: #6bc1ff;
+}
+
+.project-title {
+  font-size: 1.2em;
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+
+.project-desc {
+  color: #ccc;
+  margin-bottom: 12px;
+}
+
+.github-btn {
+  display: inline-block;
+  padding: 6px 12px;
+  background: #3776ff;
+  color: #fff !important;
+  border-radius: 6px;
+  text-decoration: none;
+  font-size: 0.9em;
+}
+
+.github-btn:hover {
+  background: #5a8cff;
+}
+&lt;/style&gt;
+&lt;div class=&#34;project-grid&#34;&gt;
+&lt;div class=&#34;project-card&#34;&gt;
+  &lt;div class=&#34;project-title&#34;&gt;Elective++  (Final project of &lt;i&gt;Practice of Programming&lt;/i&gt;)&lt;/div&gt;
+  &lt;div class=&#34;project-desc&#34;&gt;A fully functional course selection system based on Qt.&lt;/div&gt;
+  &lt;a class=&#34;github-btn&#34; href=&#34;https://github.com/seto8060/Elective_plus&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://example.org/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/research/</guid>
+      
+        <description>&lt;p&gt;Hopefully I will come back and fill in this part within the next year.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
