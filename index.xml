@@ -45,7 +45,8 @@ These notes are based on my personal understanding, so please forgive any errors
         <description>&lt;style&gt;
 .project-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  /* grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); */
+  grid-template-columns: 1fr; 
   gap: 20px;
   padding-top: 20px;
 }
